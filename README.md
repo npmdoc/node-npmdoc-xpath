@@ -1,6 +1,6 @@
 # npmdoc-xpath
 
-#### api documentation for  [xpath (v0.0.24)](https://github.com/goto100/xpath#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-xpath.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-xpath) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-xpath.svg)](https://travis-ci.org/npmdoc/node-npmdoc-xpath)
+#### basic api documentation for  [xpath (v0.0.24)](https://github.com/goto100/xpath#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-xpath.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-xpath) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-xpath.svg)](https://travis-ci.org/npmdoc/node-npmdoc-xpath)
 
 #### DOM 3 XPath implemention and helper for node.js.
 
@@ -75,7 +75,8 @@
         "test": "nodeunit test.js"
     },
     "typings": "./xpath.d.ts",
-    "version": "0.0.24"
+    "version": "0.0.24",
+    "bin": {}
 }
 ```
 
